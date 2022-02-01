@@ -1,0 +1,44 @@
+Asistencia Familiar 2009 (Histórico de subsidios)
+*************************************************
+
+Aplicación Informática
+**********************
+1. Los archivos están comprimidos en winrar y son autoextraibles
+2. El password de compresión será el mismo que se utilice para la planilla de haberes del mes
+3. Descomprima los archivos en la carpeta de "SigSubsidios" que lo puede crear en "C:\Archivos de programa\"
+4. Para determinar si un docente o administrativo recibió algún subsidio corra la aplicación "HSubsidio.exe".
+5. La aplicación informática del Histórico de Subsidios, estará disponible con la última información actualizada a partir del seis de cada mes y habilitado para su descarga desde el portal web: http://ugpsep.minedu.gob.bo:8082/ 
+
+De la reposición de subsidios
+*****************************
+1. Que el reglamento de asignaciones familiares esta en vigencia desde el 01/febrero/2006, mediante resolución ministerial 0030 de 23 de enero de 2006 del Ministerio de Salud y Deportes.
+2. Que no es aplicable la prescripción del subsidio si la interrupción no es imputable a los asegurados, salvo que se demuestre lo contrario, artículo 9 del reglamento de asignaciones familiares.
+3. Que la reposición de subsidio, es el pago qué se le adeuda al beneficiario debido a la interrupción no imputable al asegurado.
+
+De la prescripción de los subsidios
+***********************************
+1. Que el subsidio de Prenatal, prescribe en el plazo de un año a partir de la interrupción del pago. 
+2. Que el subsidio de Natalidad, prescribe en el plazo de un año a partir de la fecha de nacimiento.
+3. Que el subsidio de Lactancia, prescribe en el plazo de un año a partir de la interrupción del pago.
+4. Que el subsidio de Sepelio, prescribe en el plazo de un año a partir de la fecha de fallecimiento del hijo.
+
+Responsables de la reposición de subsidios
+******************************************
+1. El primer responsable de la solicitud es la profesora o profesor que aseguró al bebe a la CNS. Para ello se debe presentar el formulario "UGP-PLA-17-v1", debidamente llenado en la Dirección Distrital de su jurisdicción.
+2. El responsable de recepción de la solicitud es el técnico encargado de subsidios de la Dirección Distrital, previa verificación de la documentación presentada de acuerdo a los requisitos estipulados en el formulario "UGP-PLA-17-v2". Para tal efecto se enviará a los correos electrónicos de los encargados del SEDUCA el medio magnético del mencionado formulario, para su distribución hacia los distritos educativos.
+3. La solicitud debe ser presentada mínimamente en dos ejemplares, una para el trámite y otra entregada al solicitante. Toda solicitud debe contar con fecha y sello de recepción de la Dirección Distrital.
+4. La solicitud será procedente, siempre y cuando el técnico encargado de subsidios de la Dirección Distrital realice la revisión de la información en el histórico de subsidios y evidencie que no se completo los subsidios solicitados.
+5. Todas las solicitudes de reposición de subsidio procedentes, deben ser remitidas al Ministerio de Educación, y por el momento no deberán ser registradas en el sistema de subsidios que se maneja en los SEDUCAS Y DISTRITOS EDUCATIVOS.
+5. El Ministerio de Educación por intermedio de la Unidad de Gestión de Personal del Servicio de Educación Pública (UGP-SEP) procesará y hará efectiva la solicitud. Para lo cual las solicitudes realizadas.
+
+Consideraciones complementarias a la reposición de subsidios
+************************************************************
+1. Las solicitudes fuera del plazo establecido no serán considerados para el proceso del mes.
+2. La presentación de la solicitud en la Dirección Distrital, puede ser realizar por el titular, heredero, apoderado o un tercero, los documentos firmados necesariamente por el titular o heredero (firmará el heredero en caso de fallecimiento del titular).
+3. La presentación de la solicitud en la Dirección Distrital no debe incluir documentos ilegibles ni documentos originales.
+4. La reposición del subsidio de Prenatal o subsidio de Defunción, debe ser solicitada en la Dirección Distrital según el procedimiento vigente y establecido con anterioridad. 
+5. Se puede iniciar la reposición del subsidio de Natalidad y/o el subsidio de Lactancia, cuando anteriormente se pago un subsidio de Lactancia para el bebe asegurado, caso contrario debe ser solicitada en la Dirección Distrital según el procedimiento vigente y establecido con anterioridad.
+
+Contacto
+********
+2. Cualquier técnico de la Unidad de Gestión de Personal del SEP 02-2442144-2444894-2442074 int. 309, 219, 220, 221 email: ugpsepsoporte@minedu.gob.bo
